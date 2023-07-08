@@ -10,9 +10,9 @@ In this project I will try to implement as many unity and Google interactions as
 
 ## Realization
 * Read google sheets
+* Read google docs
 
-## Screenshots
-### Read google sheets
+## Read google sheets
 #### Google sheets
 ![image](https://github.com/CreatNatoy/Unity-Google/assets/76531899/afb206f7-1564-4689-be71-a3cd307a6026)
 #### Google Apps Script
@@ -21,6 +21,15 @@ In this project I will try to implement as many unity and Google interactions as
 ![image](https://github.com/CreatNatoy/Unity-Google/assets/76531899/8192f87f-e637-4d23-8a69-8352342d2c4c)
 #### Result 
 ![image](https://github.com/CreatNatoy/Unity-Google/assets/76531899/e07bf6b2-1a56-4553-9ce4-77045a85007d)
+
+## Read google docs
+#### Output result with the protocol HTTPS. 
+It is important that the beginning and end of the message are marked with a marker. ( !Start! , !End! )
+![image](https://github.com/CreatNatoy/Unity-Google/assets/76531899/892c6c04-30e0-49d2-980f-d7840f3124c6)
+#### Result unity
+![image](https://github.com/CreatNatoy/Unity-Google/assets/76531899/5476e2cb-238f-4c8c-b326-d1da8656c945)
+
+
 
 
 
